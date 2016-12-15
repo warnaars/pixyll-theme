@@ -4,6 +4,9 @@
 permalink:           pretty
 relative_permalinks: true
 
+# Jekyll configuration
+highlighter:         rouge
+
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
